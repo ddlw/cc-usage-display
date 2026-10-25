@@ -1,0 +1,10 @@
+.pio/
+.pio-venv/
+.cache/
+include/secrets.h
+companion/.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+companion/config.json
